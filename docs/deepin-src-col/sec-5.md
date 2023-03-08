@@ -1,4 +1,7 @@
-## 五、社区与论坛
+---
+title: 五、社区与论坛
+---
+
 ### 5.1 论坛使用
 
 1. 利用百度替代论坛搜索功能：[https://bbs.deepin.org/zh/post/221982](https://bbs.deepin.org/zh/post/221982)

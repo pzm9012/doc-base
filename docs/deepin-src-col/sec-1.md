@@ -1,4 +1,7 @@
-## 一、综合
+---
+title: 一、综合
+---
+
 ### 1.1 入门
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)

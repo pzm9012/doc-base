@@ -1,4 +1,7 @@
-## 六、更多
+---
+title: 六、更多
+---
+
 ### 6.1 测评感受
 
 1. deepin生产环境下的使用体会：[https://bbs.deepin.org/zh/post/222880](https://bbs.deepin.org/zh/post/222880)

@@ -1,4 +1,7 @@
-## 四、应用软件
+---
+title: 四、应用软件
+---
+
 ### 4.1 应用分享和使用技巧
 你可以从**星火应用商店**（一款由社区爱好者维护，致力于丰富Linux生态的第三方应用商店）获取一些最新版本的Linux应用和开箱即用的wine应用。官网：[https://www.spark-app.store](https://www.spark-app.store)（[向星火商店捐赠](https://donate.deepinos.org.cn/donate/)）
 

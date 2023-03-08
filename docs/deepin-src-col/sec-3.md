@@ -1,4 +1,7 @@
-## 三、硬件和设备
+---
+title: 三、硬件和设备
+---
+
 ### 3.1 显卡
 
 1. 显卡笔记本安装N卡闭源驱动教程：[https://bbs.deepin.org/zh/post/215066](https://bbs.deepin.org/zh/post/215066)
