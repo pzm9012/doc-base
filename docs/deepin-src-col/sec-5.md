@@ -1,8 +1,8 @@
 ---
 title: 五、社区与论坛
 ---
-
-### 5.1 论坛使用
+# 五、社区与论坛
+## 5.1 论坛使用
 
 1. 利用百度替代论坛搜索功能：[https://bbs.deepin.org/zh/post/221982](https://bbs.deepin.org/zh/post/221982)
 2. （UOS）社区问题及建议反馈须知：[http://bbs.chinauos.com/post/5005](http://bbs.chinauos.com/post/5005)
@@ -15,7 +15,7 @@ title: 五、社区与论坛
 9.  【怀旧向】深度科技论坛，前世今生：[https://bbs.deepin.org/post/244048](https://bbs.deepin.org/post/244048)
 10. 今天试着把论坛打包成APP了，欢迎大家试用一下：[https://bbs.deepin.org/post/247362](https://bbs.deepin.org/post/247362)
 
-### 5.2 社区活动（部分）
+## 5.2 社区活动（部分）
 
 1. 访谈依云和来自深度社区的竹子和马强：[https://bbs.deepin.org/zh/post/220802](https://bbs.deepin.org/zh/post/220802)
 2. 深度中国社区大佬面对面第一期：Arch中文社区依云：[https://bbs.deepin.org/zh/post/221930](https://bbs.deepin.org/zh/post/221930)
@@ -39,7 +39,7 @@ title: 五、社区与论坛
 20. 深度开源社区用户沟通会第2期公示，一同打造更好的deepin：[https://bbs.deepin.org/post/247039](https://bbs.deepin.org/post/247039)
 21. 第十二届DDUC：深度热爱，一同进化：[https://bbs.deepin.org/post/247524](https://bbs.deepin.org/post/247524)    [直播回放](https://www.bilibili.com/video/BV1YW4y1K7dp/)
 22. 审美游戏——审美高手来集合：[https://bbs.deepin.org/post/249891](https://bbs.deepin.org/post/249891)
-#### 5.2.1 深度开源社区周报
+### 5.2.1 深度开源社区周报
 
 1. 深度开源社区周报（06.25-07.01）第1期：[https://bbs.deepin.org/post/239826](https://bbs.deepin.org/post/239826)
 2. 深度开源社区周报（07.02-07.08）第2期：[https://bbs.deepin.org/post/240115](https://bbs.deepin.org/post/240115)

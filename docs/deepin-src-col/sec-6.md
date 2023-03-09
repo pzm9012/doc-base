@@ -1,8 +1,8 @@
 ---
 title: 六、更多
 ---
-
-### 6.1 测评感受
+# 六、更多
+## 6.1 测评感受
 
 1. deepin生产环境下的使用体会：[https://bbs.deepin.org/zh/post/222880](https://bbs.deepin.org/zh/post/222880)
 2. Deepin 20.2.2软件深度体验：[https://bbs.deepin.org/zh/post/223513](https://bbs.deepin.org/zh/post/223513)
@@ -25,7 +25,7 @@ title: 六、更多
 19. deepin os: 温柔且闪光：[https://bbs.deepin.org/zh/post/248320](https://bbs.deepin.org/zh/post/248320)
 20. 办公学习两不误，长期deepin使用手记：[https://bbs.deepin.org/post/250158](https://bbs.deepin.org/post/250158)
 21. 华为MateBook X Pro安装Deepin小记：[https://bbs.deepin.org/post/249878](https://bbs.deepin.org/post/249878)
-#### 6.1.1 V23日更版体验
+### 6.1.1 V23日更版体验
 > 此部分记录deepin第一个根社区理念的系统——deepin 23的成长之路
 > 由于各种原因，只能收录自20230112开始的体验帖，欢迎论坛私信补充。
 > 下载体验日更版（**请不要用于生产环境**）：[https://cdimage.deepin.com/daily/](https://cdimage.deepin.com/daily/)
@@ -47,7 +47,7 @@ title: 六、更多
 15. 日更版2.4体验与建议（UI）：[https://bbs.deepin.org/post/250538](https://bbs.deepin.org/post/250538)
 16. deepin v23 beta最新日更版，其系统控制中心开关与MacOS相同：[https://bbs.deepin.org/post/250690](https://bbs.deepin.org/post/250690)
 
-### 6.2 其他系统的资源
+## 6.2 其他系统的资源
 
 1. UOS各版本系统说明：[http://bbs.chinauos.com/post/6514](http://bbs.chinauos.com/post/6514)
 2. 在其他发行版使用Deepin-Wine的终级方案：[https://zhuanlan.zhihu.com/p/379196410](https://zhuanlan.zhihu.com/p/379196410)
@@ -67,14 +67,14 @@ title: 六、更多
 16. nixos-dde-iso 浣熊纪念版成品发布：[https://bbs.deepin.org/zh/post/248519](https://bbs.deepin.org/zh/post/248519)
 17. 深度操作系统 V23 Alpha 2 Arm64民间版 ！：[https://bbs.deepin.org/post/252589](https://bbs.deepin.org/post/252589)
 
-#### 6.2.1 阅读其他系统的Wiki
+### 6.2.1 阅读其他系统的Wiki
 > deepin 20 是 Debian Linux 的一个分支。尽管其他的 Linux 发行版与 deepin 有所不同，它们的 Wiki 仍有值得学习的知识。
 
 1. Debian Wiki：[https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5](https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5)
 2. ArchWiki：[https://wiki.archlinux.org/title/Main_page_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)](https://wiki.archlinux.org/title/Main_page_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 3. openSUSE Wiki：[https://zh.opensuse.org/%E9%A6%96%E9%A1%B5](https://zh.opensuse.org/%E9%A6%96%E9%A1%B5)
 
-### 6.3 PPT SHOW 系列
+## 6.3 PPT SHOW 系列
 > 此部分作品由社区用户 [@PossibleVing](https://bbs.deepin.org/user/225373) 设计。
 
 1. 第一期：新论坛的 UI ？我觉得这样很 OK：[https://bbs.deepin.org/zh/post/191168](https://bbs.deepin.org/zh/post/191168)
@@ -99,7 +99,7 @@ title: 六、更多
 
 19. 第十九期：这，是你想象中的 DDE 吗？：[https://bbs.deepin.org/post/245770](https://bbs.deepin.org/post/245770)
 
-### 6.4 其他
+## 6.4 其他
 
 1. 网页版deepin：[https://bbs.deepin.org/zh/post/219792](https://bbs.deepin.org/zh/post/219792)
 2. 盘点 23 款国产桌面发行版：[https://bbs.deepin.org/zh/post/231369](https://bbs.deepin.org/zh/post/231369)

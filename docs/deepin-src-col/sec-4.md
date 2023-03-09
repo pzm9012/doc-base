@@ -1,15 +1,15 @@
 ---
 title: 四、应用软件
 ---
-
-### 4.1 应用分享和使用技巧
+# 四、应用软件
+## 4.1 应用分享和使用技巧
 你可以从**星火应用商店**（一款由社区爱好者维护，致力于丰富Linux生态的第三方应用商店）获取一些最新版本的Linux应用和开箱即用的wine应用。官网：[https://www.spark-app.store](https://www.spark-app.store)（[向星火商店捐赠](https://donate.deepinos.org.cn/donate/)）
 
 1. deepin软件推荐（很多）：[https://bbs.deepin.org/zh/post/237514](https://bbs.deepin.org/zh/post/237514)
 2. Deepin作为主力开发机2年软件整理：[https://bbs.deepin.org/zh/post/253278](https://bbs.deepin.org/zh/post/253278)
 3. 国产CPU应用分享站：[https://bbs.racoongx.cn/t/cpu-China-APP](https://bbs.racoongx.cn/t/cpu-China-APP)
 4. 星火终端版1.2.3：[https://bbs.deepin.org/post/252112](https://bbs.deepin.org/post/252112)
-#### 4.1.1 系统工具
+### 4.1.1 系统工具
 
 1. Oh my dde：[论坛页面](https://bbs.deepin.org/zh/post/226592)  [Gitee页面](https://gitee.com/Limexb/oh-my-dde)
 2. iOS14风格小部件正式发布啦：[https://bbs.deepin.org/zh/post/213377](https://bbs.deepin.org/zh/post/213377)
@@ -66,7 +66,7 @@ title: 四、应用软件
 53. vim选中特定多个文件同时打开：[https://bbs.deepin.org/post/248205](https://bbs.deepin.org/post/248205)
 54. 请推荐一款Linux 批处理编写软件(有界面的那种)：[https://bbs.deepin.org/zh/post/248919](https://bbs.deepin.org/zh/post/248919)
 
-#### 4.1.2 网络应用
+### 4.1.2 网络应用
 
 1. 天翼云网盘（wine）下载及打包教程：[https://bbs.deepin.org/zh/post/221558](https://bbs.deepin.org/zh/post/221558)
 2. 一条命令让火狐浏览器可自动更新到最新版：[https://bbs.deepin.org/zh/post/224603](https://bbs.deepin.org/zh/post/224603)
@@ -88,7 +88,7 @@ title: 四、应用软件
 18. 一个有意思的浏览器插件：merlin：[https://bbs.deepin.org/post/250895](https://bbs.deepin.org/post/250895)
 19. 分享一款远程桌面软件hoptodesk：[https://bbs.deepin.org/post/253399](https://bbs.deepin.org/post/253399)
 
-#### 4.1.3 办公学习
+### 4.1.3 办公学习
 
 1. 为知笔记deepin版闪亮登场：[https://bbs.deepin.org/zh/post/209845](https://bbs.deepin.org/zh/post/209845)
 2. 为知笔记最新版编译，有一丝丝的deepin特殊适配：[https://bbs.deepin.org/zh/post/222180](https://bbs.deepin.org/zh/post/222180)
@@ -117,7 +117,7 @@ title: 四、应用软件
 25. 分享一个好用的划词翻译软件（其实就是推广自己的软件）：[https://bbs.deepin.org/post/253348](https://bbs.deepin.org/post/253348)
 26. CAD二维绘图软件：QCAD，Linux deepin系统中的详细使用方式：[https://bbs.deepin.org/post/253391](https://bbs.deepin.org/post/253391)
 
-#### 4.1.4 社交沟通
+### 4.1.4 社交沟通
 
 1. ~~Icalingua：第三方QQ客户端：~~[~~https://bbs.deepin.org/zh/post/226550~~](https://bbs.deepin.org/zh/post/226550)（原项目因不可抗因素已删除，建议使用分支版本 [Icalingua++](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)）
 2. 解决QQ(wine)因字体卡死&宋体发虚太难看的一种方法：[https://bbs.deepin.org/post/213530](https://bbs.deepin.org/post/213530)
@@ -130,7 +130,7 @@ title: 四、应用软件
 9. 6月28前后新装20.6商店TIM微信QQ安装提示依赖不足方案一：[https://bbs.deepin.org/zh/post/239691](https://bbs.deepin.org/zh/post/239691)
 10. 星火应用商店反馈和交流平台 v1.1.2 发布：[https://bbs.deepin.org/post/246258](https://bbs.deepin.org/post/246258)（[地址](https://chat.shenmo.tech/home)）
 
-#### 4.1.5 音乐视频
+### 4.1.5 音乐视频
 
 1. 自动从网络上匹配歌词的Deepin Music：[https://bbs.deepin.org/zh/post/221829](https://bbs.deepin.org/zh/post/221829)
 2. 功能完善、社区活跃的超级播放器——KODI：[https://bbs.deepin.org/zh/post/224939](https://bbs.deepin.org/zh/post/224939)
@@ -157,7 +157,7 @@ title: 四、应用软件
 23. 【应用推荐】小苹果影视盒子(uengine) ：[https://bbs.deepin.org/post/251365](https://bbs.deepin.org/post/251365)
 24. 【应用推荐】简洁美观好用的开源音乐软件：[https://bbs.deepin.org/post/252868](https://bbs.deepin.org/post/252868)
 
-#### 4.1.6 游戏娱乐
+### 4.1.6 游戏娱乐
 
 1. Wine游戏收集贴-持续不定期更新-不定期更新链接：[https://bbs.deepin.org/zh/post/217731](https://bbs.deepin.org/zh/post/217731)
 2. 使用 PlayOnLinux 和 winetricks 完美运行《白色相簿2》：[https://bbs.deepin.org/zh/post/214585](https://bbs.deepin.org/zh/post/214585)
@@ -192,7 +192,7 @@ title: 四、应用软件
 31. 下一代跨平台 Minecraft 启动器 | WonderLab：[https://bbs.deepin.org/post/250184](https://bbs.deepin.org/post/250184)
 32. [深度首发]越南2S飞车|2S Speed 游玩体验：[https://bbs.deepin.org/post/252642](https://bbs.deepin.org/post/252642)
 
-#### 4.1.7 多设备协同
+### 4.1.7 多设备协同
 
 1. 安卓手机后台管理工具黑阈激活器（DTK版本）：[https://bbs.deepin.org/zh/post/208066](https://bbs.deepin.org/zh/post/208066)
 2. Macast —— 一个跨平台的DLNA投屏接收器：[https://bbs.deepin.org/zh/post/225095](https://bbs.deepin.org/zh/post/225095)
@@ -206,7 +206,7 @@ title: 四、应用软件
 10. 局域网传输软件推荐：[https://bbs.deepin.org/zh/post/249194](https://bbs.deepin.org/zh/post/249194)
 11. ToDesk最新版若启动不了，请下载旧版安装：[https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb](https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb)
 
-#### 4.1.8 其他应用
+### 4.1.8 其他应用
 
 1. 分享几个脚本工具：[https://bbs.deepin.org/zh/post/221680](https://bbs.deepin.org/zh/post/221680)
 2. 几款国产软件的设置：[https://bbs.deepin.org/zh/post/222707](https://bbs.deepin.org/zh/post/222707)
@@ -234,8 +234,8 @@ title: 四、应用软件
 24. LinwinSoft DB server1.4 Cluste 高性能分布式集群数据库软件发布：[https://bbs.deepin.org/post/251546](https://bbs.deepin.org/post/251546)
 25. 思科模拟器（网工的同学看过来）：[https://bbs.deepin.org/post/250686](https://bbs.deepin.org/post/250686)
 
-### 4.2 运行其他平台应用、虚拟机
-#### 4.2.1 UEngine
+## 4.2 运行其他平台应用、虚拟机
+### 4.2.1 UEngine
 > UEngine 用来在 deepin/UOS 上运行安卓应用，应用商店中的手机应用就使用了 UEngine 引擎。同类应用还有 [Anbox](https://anbox.io/)、[xDroid](https://www.linzhuotech.com/) 等。
 
 1. uengine 使用总结：[https://uos.osystem.club/102.html](https://uos.osystem.club/102.html)
@@ -247,7 +247,7 @@ title: 四、应用软件
 7. 关于安装未知来源的apk，被禁止安装处理方法：[https://bbs.deepin.org/zh/post/237401](https://bbs.deepin.org/zh/post/237401)
 8. 关于uengine导致系统没声音的问题以及（临时）解决办法：[https://bbs.deepin.org/post/244795](https://bbs.deepin.org/post/244795)
 
-#### 4.2.2 Wine
+### 4.2.2 Wine
 > [Wine](https://www.winehq.org/) 用于在 macOS，Linux，BSD 等系统上运行 Windows 应用。应用商店中的 Wine 应用使用了 deepin-wine（deepin 基于 Wine 进行了优化的版本）。
 
 1. Deepin-Wine适配知识库：[https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0](https://docs.qq.com/mind/DWFBpbmpjd0RtV2Z0)
@@ -275,7 +275,7 @@ title: 四、应用软件
 21. wine axmath+office安装教程：[https://bbs.deepin.org/post/247888](https://bbs.deepin.org/post/247888)
 22. 解决wine安装软件缺少dll的问题---Winetricks：[https://blog.csdn.net/zzqhost/article/details/7231563](https://blog.csdn.net/zzqhost/article/details/7231563)
 
-#### 4.2.3 虚拟机、容器
+### 4.2.3 虚拟机、容器
 
 1. VMware 虚拟机3种安装方法： [https://bbs.deepin.org/zh/post/221632](https://bbs.deepin.org/zh/post/221632)
 2. 开箱即用的虚拟机软件——GNOME Boxes，应用商店可下载！：[https://bbs.deepin.org/zh/post/220484](https://bbs.deepin.org/zh/post/220484)
@@ -285,7 +285,7 @@ title: 四、应用软件
 6. Distrobox 在终端里使用您最熟悉喜爱的 Linux 发行版：[https://bbs.deepin.org/post/246566](https://bbs.deepin.org/post/246566)
 7. 在deepin20.8最新内测版下安装使用podman及其desktop：[https://bbs.deepin.org/post/248165](https://bbs.deepin.org/post/248165)
 
-### 4.3 开发程序
+## 4.3 开发程序
 
 1. 解包/打包deb教程 一周年重置版：[https://bbs.deepin.org/zh/post/227931](https://bbs.deepin.org/zh/post/227931)
 2. 简单的deb一键打包脚本：[https://bbs.deepin.org/post/245399](https://bbs.deepin.org/post/245399)
@@ -328,7 +328,7 @@ title: 四、应用软件
 39. oyo-deepin：从多个镜像源同时下载软件包以快速下载：[https://bbs.deepin.org/post/250166](https://bbs.deepin.org/post/250166)
 40. Nixery: 轻而易举地用 docker 部署 nixpkgs 中的软件：[https://bbs.deepin.org/post/253138](https://bbs.deepin.org/post/253138)
 
-### 4.4 “玲珑”自研软件包格式
+## 4.4 “玲珑”自研软件包格式
 
 1. 揭秘deepin 23，从这里开始！：[https://bbs.deepin.org/post/241059](https://bbs.deepin.org/post/241059)
 2. 深入探索玲珑 01——玲珑方案的创造！：[https://bbs.deepin.org/post/241762](https://bbs.deepin.org/post/241762)
@@ -337,7 +337,7 @@ title: 四、应用软件
 5. “玲珑”在线商店：[https://store.linglong.dev/](https://store.linglong.dev/)
 6. 随便聊一下玲珑包存放机制：[https://bbs.deepin.org/post/242825](https://bbs.deepin.org/post/242825)
 
-### 4.5 Unilang 自研编程语言
+## 4.5 Unilang 自研编程语言
 
 1. 生而为创新！我们自研的编程语言Unilang问世！：[https://bbs.deepin.org/post/243253](https://bbs.deepin.org/post/243253)
 2. 元编程语言的诞生丨带你深入浅出解读Unilang！：[https://bbs.deepin.org/post/243383](https://bbs.deepin.org/post/243383)

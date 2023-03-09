@@ -1,8 +1,8 @@
 ---
 title: 二、系统
 ---
-
-### 2.1 系统安装
+# 二、系统
+## 2.1 系统安装
 > 安装 [deepin 20.4](https://bbs.deepin.org/post/230585) 之后的版本，安装器能自动识别已有 EFI 分区，无需再另外手动创建。
 
 1. **安装教程（官方）**：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)
@@ -29,7 +29,7 @@ title: 二、系统
 22. 双系统安装时为什么要先安装Windows再安装Linux：[https://bbs.deepin.org/post/252461](https://bbs.deepin.org/post/252461)
 23. 保留home分区安装v23的方法：[https://bbs.deepin.org/post/251174](https://bbs.deepin.org/post/251174)
 
-#### 2.1.1 在 U 盘上安装 deepin
+### 2.1.1 在 U 盘上安装 deepin
 > 建议在 USB 3.0 或以上的 U 盘中安装 deepin，启动时使用电脑的 USB 3.0 接口，否则会出现卡顿情况。U 盘存储空间至少为 20GB。
 
 1. [grub实现]U盘引导多个linux镜像安装,同时支持BIOS和UEFI模式：[https://my.oschina.net/abcfy2/blog/491140](https://my.oschina.net/abcfy2/blog/491140)
@@ -37,16 +37,16 @@ title: 二、系统
 3. 简单6步，把deepin装进口袋：[https://bbs.deepin.org/zh/post/224438](https://bbs.deepin.org/zh/post/224438)
 4. Deepin装在 vhd/vdi 中使用：[https://bbs.deepin.org/zh/post/209674](https://bbs.deepin.org/zh/post/209674)
 
-#### 2.1.2 在 Android™ 手机上安装 deepin
+### 2.1.2 在 Android™ 手机上安装 deepin
 芜湖~手机上安装deepin教程来啦！：[https://b23.tv/IMmMSR4](https://b23.tv/IMmMSR4)
 
-#### 2.1.3 在 Windows® Subsystem of Linux（WSL）中安装 deepin
+### 2.1.3 在 Windows® Subsystem of Linux（WSL）中安装 deepin
 
 1. WSL Deepin：[https://bbs.deepin.org/zh/post/206395](https://bbs.deepin.org/zh/post/206395)
 2. wsl2安装deepinV23 preview：[https://bbs.deepin.org/zh/post/241212](https://bbs.deepin.org/zh/post/241212)
 3. Deepin GNU/Linux的WSL 2发行版：[https://bbs.deepin.org/post/246111](https://bbs.deepin.org/post/246111)
 
-### 2.2 系统启动和引导
+## 2.2 系统启动和引导
 
 1. 启动显示BusyBox … built-in shell(ash) ：[https://blog.csdn.net/bless_you0_0/article/details/100513210](https://blog.csdn.net/bless_you0_0/article/details/100513210)    [https://www.cnblogs.com/lbhqq/p/6964746.html](https://www.cnblogs.com/lbhqq/p/6964746.html)
 2. 谁动了我的 Grub？Grub 进入命令行解决：[https://bbs.deepin.org/zh/post/210805](https://bbs.deepin.org/zh/post/210805)
@@ -57,7 +57,7 @@ title: 二、系统
 7. 你的deepin启动耗时分析有看过么：[https://bbs.deepin.org/post/247588](https://bbs.deepin.org/post/247588)
 8. 试用UEFI直接引导内核+去除开机跑日志：[https://bbs.deepin.org/zh/post/248745](https://bbs.deepin.org/zh/post/248745)
 
-### 2.3 系统内核
+## 2.3 系统内核
 
 1. 双内核使用说明：[https://bbs.deepin.org/zh/post/216952](https://bbs.deepin.org/zh/post/216952)
 2. 操作系统的内核到底是什么：[https://bbs.deepin.org/zh/post/229142](https://bbs.deepin.org/zh/post/229142)
@@ -67,7 +67,7 @@ title: 二、系统
 6. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
 7.  V23安装linux 6.1.0 内核：[https://bbs.deepin.org/post/247537](https://bbs.deepin.org/post/247537)
 
-### 2.4 问题解决
+## 2.4 问题解决
 
 1. ~~deepin和windows双系统时间不同步的解决方法：~~[~~https://bbs.deepin.org/zh/post/220213~~](https://bbs.deepin.org/zh/post/220213)（最佳的方案是**把 Windows 的时间标准改成 UTC**，要改注册表；因为只有 Windows 默认的时间标准是本地时间，除 Windows 之外的绝大多数操作系统都默认为 UTC ——[@SamLukeYes]()）
 2. 用snapd安装软件后出现多个磁盘：[https://bbs.deepin.org/zh/post/203517](https://bbs.deepin.org/zh/post/203517) （解决方法在7楼）
@@ -90,12 +90,12 @@ title: 二、系统
 19. birdtray——为ThunderBird邮箱客户端添加托盘区小图标：[https://bbs.deepin.org/post/251789](https://bbs.deepin.org/post/251789)
 20. 魔改suspend.target解决Deepin睡眠休眠问题：[https://bbs.deepin.org/post/253413](https://bbs.deepin.org/post/253413)
 
-### 2.5 系统使用
+## 2.5 系统使用
 
 1. deepin的bilibili个人空间：[https://space.bilibili.com/137324885](https://space.bilibili.com/137324885) （前往查看更多官方教程）
 2. Deepin 自用优化：[https://bbs.deepin.org/zh/post/245085](https://bbs.deepin.org/zh/post/245085)
 
-#### 2.5.1 桌面环境
+### 2.5.1 桌面环境
 
 1. 在Linux中创建应用图标：[https://bbs.deepin.org/zh/post/225323](https://bbs.deepin.org/zh/post/225323)
 2. 安装gnome：[https://bbs.deepin.org/zh/post/207834](https://bbs.deepin.org/zh/post/207834)（见回复）
@@ -108,7 +108,7 @@ title: 二、系统
 9. deepin使用xfce4桌面：[https://bbs.deepin.org/zh/post/239619](https://bbs.deepin.org/zh/post/239619)
 10. 退出桌面后如何再次回到桌面登录模式：[https://bbs.deepin.org/zh/post/248488](https://bbs.deepin.org/zh/post/248488)
 
-#### 2.5.2 应用处理
+### 2.5.2 应用处理
 
 1. 删除卸载残留的应用配置：[https://bbs.deepin.org/zh/post/227702](https://bbs.deepin.org/zh/post/227702)
 2. 在dde File Manager的较上端加入菜单项（类似深度压缩）：[https://bbs.deepin.org/zh/post/229467](https://bbs.deepin.org/zh/post/229467)
@@ -124,7 +124,7 @@ title: 二、系统
 12. linux下彻底删除软件及配置文件：[https://blog.csdn.net/weixin_41549393/article/details/118389787](https://blog.csdn.net/weixin_41549393/article/details/118389787)
 13. 希望能有一个更好用得软件包及依赖下载工具：[https://bbs.deepin.org/zh/post/248422](https://bbs.deepin.org/zh/post/248422)  （见19楼）
 
-#### 2.5.3 输入法
+### 2.5.3 输入法
 
 1. 创作自己的输入法皮肤(**适用于旧版fcitx**)：[https://bbs.deepin.org/zh/post/210018](https://bbs.deepin.org/zh/post/210018)
 2. 安装及使用Rime输入法--中州韵输入法：[https://bbs.deepin.org/zh/post/207410](https://bbs.deepin.org/zh/post/207410)
@@ -141,7 +141,7 @@ title: 二、系统
 13. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
 14. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
 
-#### 2.5.4 性能
+### 2.5.4 性能
 
 1. 交换空间：[https://wiki.archlinux.org/title/Swap_(简体中文)](https://wiki.archlinux.org/title/Swap_(简体中文)) （适用于deepin，安装系统后可按“交换文件”部分设置swap）
 2. 对小内存用户的使用建议 防卡设置：[https://bbs.deepin.org/zh/post/199563](https://bbs.deepin.org/zh/post/199563) （文件所在位置为/usr/lib/sysctl.d/deepin.conf ，要以管理员身份打开）
@@ -157,7 +157,7 @@ title: 二、系统
 12. 改善intel iris xe集显低压轻薄本的核显性能释放技巧：[https://bbs.deepin.org/post/246471](https://bbs.deepin.org/post/246471)
 13. 获取进程处理器及内存占用等信息：[https://bbs.deepin.org/post/247373](https://bbs.deepin.org/post/247373)
 
-#### 2.5.5 命令与终端
+### 2.5.5 命令与终端
 
 1. 使用过的一些命令分享：[https://bbs.deepin.org/zh/post/223660](https://bbs.deepin.org/zh/post/223660)
 2. 以root权限运行命令配置无需输入密码（sudo和pkexec）：[https://bbs.deepin.org/zh/post/229374](https://bbs.deepin.org/zh/post/229374)
@@ -172,7 +172,7 @@ title: 二、系统
 11. transhell——一个让bash脚本可以国际化的方案：[https://bbs.deepin.org/post/249136](https://bbs.deepin.org/post/249136)
 12. 一些命令：[https://bbs.deepin.org/post/250551](https://bbs.deepin.org/post/250551)（有些解释不太对，请看帖子下大佬们的补充）
 
-#### 2.5.6 文件处理
+### 2.5.6 文件处理
 
 1. 不安装任何软件实现局域网快速共享文件：[https://bbs.deepin.org/zh/post/209250](https://bbs.deepin.org/zh/post/209250)
 2. 如何设置共享文件，windows访问deepin共享文件方法：[https://bbs.deepin.org/zh/post/195192](https://bbs.deepin.org/zh/post/195192)
@@ -186,7 +186,7 @@ title: 二、系统
 10. 一篇分权共享 samba 文件夹的水贴：[https://bbs.deepin.org/zh/post/239448](https://bbs.deepin.org/zh/post/239448)
 11. Deepin20访问WINDOWS10共享盘并获取读写权限心路历程：[https://bbs.deepin.org/post/245662](https://bbs.deepin.org/post/245662)
 
-#### 2.5.7 其他
+### 2.5.7 其他
 
 1. 在deepin上使用LaTeX：[https://bbs.deepin.org/zh/post/229734](https://bbs.deepin.org/zh/post/229734)
 2. 一句命令行安装live系统 解决手动分区无备份还原系统等问题：[https://bbs.deepin.org/zh/post/215165](https://bbs.deepin.org/zh/post/215165)
@@ -216,8 +216,8 @@ title: 二、系统
 26. 怎么取消Alt+空格的快捷键：[https://bbs.deepin.org/post/248391](https://bbs.deepin.org/post/248391)
 27. Deepin默认的时区设置浏览器不认导致变慢解决方法：[https://bbs.deepin.org/zh/post/253239](https://bbs.deepin.org/zh/post/253239)  （概括：改为上海时间）
 
-### 2.6 系统美化
-#### 2.6.1 壁纸
+## 2.6 系统美化
+### 2.6.1 壁纸
 
 1. 壁纸与屏保--让你的deepin更好用：[https://bbs.deepin.org/zh/post/225531](https://bbs.deepin.org/zh/post/225531)
 2. 让Deepin吃上macOS的动态壁纸：[https://bbs.deepin.org/zh/post/206933](https://bbs.deepin.org/zh/post/206933)
@@ -228,7 +228,7 @@ title: 二、系统
 7. 教你怎样自己制作暗色壁纸：[https://bbs.deepin.org/zh/post/238967](https://bbs.deepin.org/zh/post/238967)
 8. 壁纸软件更新，一小波新功能：[https://bbs.deepin.org/post/246416](https://bbs.deepin.org/post/246416)（[GitHub](https://github.com/ambition-echo/earth_wallpaper)）
 9. 壁纸管理软件 One Wallhaven：[https://bbs.deepin.org/post/245752](https://bbs.deepin.org/post/245752)
-##### 2.6.1.1 壁纸图片
+#### 2.6.1.1 壁纸图片
 
 1. 壁纸汇总：[https://gfdgd-xi.github.io/deepin.background.github.io/](https://gfdgd-xi.github.io/deepin.background.github.io/) （感谢 [@gfdgd xi](https://bbs.deepin.org/user/239113)）
 2. deepin壁纸（官方）：[https://bbs.deepin.org/zh/post/209087](https://bbs.deepin.org/zh/post/209087)
@@ -249,7 +249,7 @@ title: 二、系统
 17. 用AI画了张deepin飞船的壁纸图片，你打几分？：[https://bbs.deepin.org/post/251891](https://bbs.deepin.org/post/251891)
 18. 高清壁纸分享第3期：[https://bbs.deepin.org/post/253308](https://bbs.deepin.org/post/253308)
 
-#### 2.6.2 程序窗口
+### 2.6.2 程序窗口
 
 1. 一行命令美化标题栏大额头，可设置任意高度和任意颜色：[https://bbs.deepin.org/zh/post/197036](https://bbs.deepin.org/zh/post/197036)
 2. 定制版最大化最小化关闭按钮：[https://bbs.deepin.org/zh/post/210071](https://bbs.deepin.org/zh/post/210071)
@@ -257,7 +257,7 @@ title: 二、系统
 4. 第三方应用圆角适配，移植于cutefish：[https://bbs.deepin.org/zh/post/226223](https://bbs.deepin.org/zh/post/226223)
 5. 分享一种缩小应用标题栏（额头）高度的方法：[https://bbs.deepin.org/zh/post/234783](https://bbs.deepin.org/zh/post/234783)
 
-#### 2.6.3 Dock、顶栏
+### 2.6.3 Dock、顶栏
 
 1. dde-top-panel 顶栏程序+全局菜单 (V20)：[https://bbs.deepin.org/zh/post/195128](https://bbs.deepin.org/zh/post/195128)
 2. 定制的dde-dock分享：[https://bbs.deepin.org/zh/post/224228](https://bbs.deepin.org/zh/post/224228)
@@ -266,7 +266,7 @@ title: 二、系统
 5. 个性化随机启动器图标：[https://bbs.deepin.org/post/242038](https://bbs.deepin.org/post/242038)
 6. 更改启动器图标为deepin的logo：[https://bbs.deepin.org/post/252819](https://bbs.deepin.org/post/252819)
 
-#### 2.6.4 字体
+### 2.6.4 字体
 
 1. 如何在deepinOS上加入方正字体：[https://bbs.deepin.org/zh/post/228540](https://bbs.deepin.org/zh/post/228540)
 2. 超1000款UOS字体包：链接: [https://cloud.189.cn/t/uyeuQjU3IBZz](https://cloud.189.cn/t/uyeuQjU3IBZz) 密码: dr0l
@@ -280,7 +280,7 @@ title: 二、系统
 10. [deb]Sarasa 更纱黑体 0.40.0（中文字体）：[https://bbs.deepin.org/post/251008](https://bbs.deepin.org/post/251008)
 11. [deb]思源黑体/宋体/ SC/CN 版、等宽版 下载：[https://bbs.deepin.org/post/251539](https://bbs.deepin.org/post/251539)
 
-#### 2.6.5 其他
+### 2.6.5 其他
 
 1. 【Mac布局美化】美化无止境，只要肯折腾：[https://bbs.deepin.org/zh/post/196796](https://bbs.deepin.org/zh/post/196796)
 2. ~~Bloom Origin 图标提取分享：~~[~~https://bbs.deepin.org/zh/post/223230~~](https://bbs.deepin.org/zh/post/223230)（这里的图标包有些许 BUG，建议直接使用来自星火应用商店的 Blossom 图标）
@@ -292,7 +292,7 @@ title: 二、系统
 8. V23Alpha2支持自定义主题色了，分享一些个人觉得好看的颜色：[https://bbs.deepin.org/post/251239](https://bbs.deepin.org/post/251239)
 9. 如何换掉deepin的开机动画，改成静态流浪地球2moss图：[https://bbs.deepin.org/post/250646](https://bbs.deepin.org/post/250646)
 
-### 2.7 系统有关介绍
+## 2.7 系统有关介绍
 
 1. 你好，deepin：[https://bbs.deepin.org/zh/post/223462](https://bbs.deepin.org/zh/post/223462)
 2. 深度桌面环境介绍：[https://bbs.deepin.org/zh/post/213341](https://bbs.deepin.org/zh/post/213341)
@@ -309,7 +309,7 @@ title: 二、系统
 13. deepin 20.5——人脸解锁背后的那些事：[https://bbs.deepin.org/zh/post/234359](https://bbs.deepin.org/zh/post/234359)
 14. 20.6 deepin文字识别突然变得好用了？OCR升级的秘密在这里：[https://bbs.deepin.org/zh/post/238149](https://bbs.deepin.org/zh/post/238149)
 
-### 2.8 Live 系统/环境
+## 2.8 Live 系统/环境
 
 1. 浅探 deepin Live 和修复 Linux 引导：[https://www.yuque.com/pzm9012/ct5ume/ihc99w](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
 2. Deepin Community Live CD 1.6.0：[https://bbs.deepin.org/post/247602](https://bbs.deepin.org/post/247602)

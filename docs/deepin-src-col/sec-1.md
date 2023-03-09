@@ -1,8 +1,8 @@
 ---
 title: 一、综合
 ---
-
-### 1.1 入门
+# 一、综合
+## 1.1 入门
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)
 2. 我的deepin变形记：[https://bbs.deepin.org/zh/post/228568](https://bbs.deepin.org/zh/post/228568)
@@ -12,7 +12,7 @@ title: 一、综合
 6. 再次安装deepin：[https://bbs.deepin.org/zh/post/239388](https://bbs.deepin.org/zh/post/239388)
 7. deepin小白的问题归纳及其他：[https://bbs.deepin.org/post/241961](https://bbs.deepin.org/post/241961)
 
-### 1.2 知识汇总
+## 1.2 知识汇总
 
 1. 助力UOS总站：[论坛页面](https://bbs.deepin.org/zh/post/221599)  [腾讯文档页面](https://docs.qq.com/mind/DWkJ4VlBXelRLWnVV)
 2. 统信UOS家庭版帮助文档：[https://home.uniontech.com/help/zh_CN/Home/21.3/dde.html](https://home.uniontech.com/help/zh_CN/Home/21.3/dde.html)
@@ -24,7 +24,7 @@ title: 一、综合
 8.  linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
 9. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
 
-### 1.3 博客等
+## 1.3 博客等
 
 1. DOSU Community：[https://www.deepinos.org/](https://www.deepinos.org/)
 2. 青菜芋子的博客：[https://loafing.cn/tags/Deepin/](https://loafing.cn/tags/Deepin/)
