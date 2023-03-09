@@ -45,5 +45,12 @@ jobs:
       - name: Build
         run: npm install -D vuepress && npm run docs:build
 
-      - name: Deploy
-        run: cd ./docs/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:pzm9012/doc.git master:gh-pages
+      - name: Deploy-1
+        run: cd ./docs/.vuepress/dist && git init && git config --global user.email "pzm9012@outlook.com"
+ && git config --global user.name "pzm9012"
+
+      - name: Deploy-2
+        run: git add -A && git commit -m 'deploy'
+
+      - name: Deploy-3
+        run: git push -f git@github.com:pzm9012/doc.git master:gh-pages
