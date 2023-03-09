@@ -56,5 +56,5 @@ jobs:
         # 要使用的构建命令
         BUILD_SCRIPT: npm install -D vuepress && npm run docs:build
         # 构建结果存储目录
-        BUILD_DIR: docs/.vuepress/dist/
+        BUILD_DIR: ./docs/.vuepress/dist/
 
