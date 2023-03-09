@@ -52,9 +52,9 @@ jobs:
         # 你要操作的目标仓库
         TARGET_REPO: pzm9012/doc
         # 构建结果存储的分支
-        TARGET_BRANCH: gh_pages
+        TARGET_BRANCH: gh-pages
         # 要使用的构建命令
-        BUILD_SCRIPT: yarn && yarn build
+        BUILD_SCRIPT: npm install -D vuepress && npm run docs:build
         # 构建结果存储目录
         BUILD_DIR: docs/.vuepress/dist/
 
