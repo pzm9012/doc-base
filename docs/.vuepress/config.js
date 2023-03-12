@@ -1,7 +1,7 @@
 module.exports = {
     title: 'pzm9012 的文稿',
     description: 'pzm9012 的文稿',
-    base: '/doc/',
+    base: '/doc-base/',
     locales: {
       '/': {
         lang: 'zh-CN' // 将会被设置为 <html> 的 lang 属性
