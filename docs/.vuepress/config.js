@@ -32,7 +32,7 @@ module.exports = {
             ]
         },                                                                                                         
         ],
-        docsRepo: 'pzm9012/doc-backup', 
+        docsRepo: 'pzm9012/doc-base', 
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页'
       }
