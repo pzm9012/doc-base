@@ -48,7 +48,7 @@ jobs:
       - name: Deploy
         uses: jenkey2011/vuepress-deploy@master
         env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS TOKEN }}
         # 你要操作的目标仓库
         TARGET_REPO: pzm9012/doc
         # 构建结果存储的分支
